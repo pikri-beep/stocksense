@@ -6,30 +6,22 @@ Sprint 1 Day 2
 
 ## Objective
 
-Membangun fondasi frontend project.
+Build frontend foundation for StockSense.
 
 ## Tasks
 
 * Install Livewire
 * Install Volt
 * Setup Tailwind CSS
-* Setup Design System
-* Create Main Layout
-* Create Navbar
-* Create Footer
+* Create reusable layout
+* Create Navbar component
+* Create Footer component
 
 ## Acceptance Criteria
 
-* Livewire berjalan
-* Volt berjalan
-* Tailwind berjalan
-* Layout reusable tersedia
+* Tailwind works
+* Livewire works
+* Volt works
 * Navbar responsive
 * Footer responsive
-
-## Definition of Done
-
-* Tidak ada error
-* Mobile responsive
-* Mengikuti Design System
-* Siap digunakan untuk Landing Page
+* Layout reusable
